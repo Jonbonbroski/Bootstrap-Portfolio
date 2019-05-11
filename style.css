@@ -1,0 +1,96 @@
+
+.container {
+    background-color:#dddddd;
+    
+}
+#hdr {
+    
+    border:4px solid;
+    border-color:#cccccc;
+    display:block;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    text-align:center;
+    width: 100%;
+    height: 100%;
+}
+
+/*Similar Classes. Try to tidy-up before due date*/
+
+.lin { 
+    background-color:#ffffff;
+    border-bottom: 4px solid;
+    border-color:#cccccc;
+    text-align:center;
+    margin:0;
+}
+    
+
+
+#sH {
+    
+    color: #4aaaa5;
+    background-color:#ffffff;
+    text-align:left;
+    padding: 3%;
+    
+}
+
+hr {
+    height:1px;
+    width:100%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-width: 2px;
+    background-color:#dddddd;
+
+
+}
+
+p {
+    color:#777777;
+}
+
+.mC {
+    background-color:#ffffff;
+}
+
+.ports {
+    display:inline block;
+}
+
+img {
+    height:100%;
+    width:100%;
+    border: 10% solid;
+    border-width:50%;
+    border-color:#ffffff;
+    
+}
+
+
+
+
+#ftr {
+    color:#ffffff;
+    background-color:#666666;
+    text-align:center;
+    height:30%;
+    width:100%;
+
+}
+
+#msg {
+    height:65%;
+    width:100%;
+    padding-bottom:20%;
+}
+
+.sp {
+    height:60%;
+    margin:5%;
+}
+
+
