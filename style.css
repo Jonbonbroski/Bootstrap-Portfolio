@@ -61,6 +61,7 @@ p {
     display:inline block;
 }
 
+
 img {
     height:100%;
     width:100%;
@@ -70,10 +71,7 @@ img {
     
 }
 
-
-
-
-#ftr {
+.ftr {
     color:#ffffff;
     background-color:#666666;
     text-align:center;
@@ -91,6 +89,12 @@ img {
 .sp {
     height:60%;
     margin:5%;
+}
+
+.tag{
+    background-color:#4aaaa5;
+    color:#ffffff;
+    text-align:center;
 }
 
 
